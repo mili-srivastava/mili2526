@@ -1,7 +1,7 @@
 <!-- ### Hi there 👋 -->
 
 <!--
-**Mili2526/mili2526** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**mili-srivastava/mili2526** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-[![An image of @mili2526's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mili2526)](https://holopin.io/@mili2526)
-<img src="https://github-readme-stats.vercel.app/api?username=Mili2526&show_icons=true&theme=radical" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mili2526&show_icons=true&theme=radical" alt="streak stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mili2526&show_icons=true&theme=radical" />
+[![An image of @mili-srivastava's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mili-srivastava)](https://holopin.io/@mili-srivastava)
+<img src="https://github-readme-stats.vercel.app/api?username=mili-srivastava&show_icons=true&theme=radical" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mili-srivastava&show_icons=true&theme=radical" alt="streak stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mili-srivastava&show_icons=true&theme=radical" />
