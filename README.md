@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-[![An image of @mili-srivastava's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mili-srivastava)](https://holopin.io/@mili-srivastava)
+[![An image of @mili-srivastava's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mili-srivastava)](https://holopin.io/@Mili2526)
 <img src="https://github-readme-stats.vercel.app/api?username=mili-srivastava&show_icons=true&theme=radical" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=mili-srivastava&show_icons=true&theme=radical" alt="streak stats" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mili-srivastava&show_icons=true&theme=radical" />
